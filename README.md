@@ -1,2 +1,2 @@
 # Auto-MCP
-Autocad command runner mcp
+Autocad AI Asistant for Sketching
